@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Alfai
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Alfaqi
 ===================================================================================================================================
 
 Software Developer
@@ -12,7 +12,7 @@ exceptional projects that align with client goals and contribute to the company�
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [aly.elfiky@gmail.com](mailto:aly.elfiky@gmail.com)
 * 🚀 I'm currently working on [Connect](https://github.com/alialfaqi/Connect)
-* 🧠  I'm learning NextJS
+* 🧠  I'm learning 
 
  <div align="center">
   <a href="https://github.com/alialfaqi">
