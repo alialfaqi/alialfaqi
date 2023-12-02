@@ -11,8 +11,7 @@ exceptional projects that align with client goals and contribute to the company�
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [aly.elfiky@gmail.com](mailto:aly.elfiky@gmail.com)
-* 🚀 I'm currently working on [Connect](https://github.com/alialfaqi/Connect)
-* 🧠  I'm learning 
+* 🧠  I'm learning Next.js 
 
  <div align="center">
   <a href="https://github.com/alialfaqi">
