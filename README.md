@@ -52,16 +52,16 @@ exceptional projects that align with client goals and contribute to the companyâ
 ###  Socials
 
 <p align="left">
-<!--   <a href="https://www.facebook.com/zeyad.belal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> -->
+<!--   <a href="https://www.facebook.com/ali.h.alfaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> -->
   <a href="https://www.github.com/alialfaqi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/ali-alfaqi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<!--   <a href="https://www.hackerrank.com/zeyadbelal00?hr_r=1" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeyadbelal00" width="32" height="32" /></a>
-  <a href="https://leetcode.com/zeyadbelal00/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zeyadbelal00" width="32" height="32" /></a></p> -->
+<!--   <a href="https://www.hackerrank.com" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" width="32" height="32" /></a>
+  <a href="https://leetcode.com" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" width="32" height="32" /></a></p> -->
 
 
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
-<a  href="http://www.github.com/alialfaqi"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alialfaqi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a  href="http://www.github.com/alialfaqi"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alialfaqi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
