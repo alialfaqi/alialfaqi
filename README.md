@@ -11,7 +11,7 @@ exceptional projects that align with client goals and contribute to the company�
 
 - 🌍 Based in **Egypt**
 - ✉️ Reach me at [aly.elfiky@gmail.com](mailto:aly.elfiky@gmail.com)
-- 🧠 Currently learning **Node.js** to deepen backend experti
+- 🧠 Currently learning **Node.js** to deepen backend experties
 
  <div align="center">
   <a href="https://github.com/alialfaqi">
